@@ -1,6 +1,6 @@
 # **20th Century Key Events Textual Analysis**
 
-# Introduction
+## Introduction
 This repository contains files and scripts designed to conduct a textual exploration of the historical relationships between countries in the 20th century.
 
 ## Data
