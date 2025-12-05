@@ -1,12 +1,12 @@
 # **20th Century Key Events Textual Analysis**
 
-## Introduction
+## Introduction:
 This repository contains files and scripts designed to conduct a textual exploration of the historical relationships between countries in the 20th century.
 
-## Data
+## Data:
 The text data used was [Key events of the 20th century](https://en.wikipedia.org/wiki/Key_events_of_the_20th_century)
 
-## Analysis
+## Analysis Deliverables:
 1. [1.4 Web Scraping](https://github.com/Giov4n/20th-century/blob/3dcd1e0d3f2393cfd12dab6885f5fc778c499ea9/1.4%20Web%20Scraping.ipynb): Extracting data from Wikipedia site.
 2. [1.5 Text Mining](https://github.com/Giov4n/20th-century/blob/3dcd1e0d3f2393cfd12dab6885f5fc778c499ea9/1.5%20Text%20Mining.ipynb): Transforming web data to a structured format.
 3. [1.6 NER](https://github.com/Giov4n/20th-century/blob/3dcd1e0d3f2393cfd12dab6885f5fc778c499ea9/1.6%20NER.ipynb): Tokenization, detection and classification of countries using Spacy. 
